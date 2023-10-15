@@ -1,9 +1,4 @@
-# badminton-robot
+# algorithm-learn
 
-lib for recognize badminton base on openCV
+algorithm learning
 
-## Setup
-
-## Build
-
-## Run
